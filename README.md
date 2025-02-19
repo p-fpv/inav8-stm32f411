@@ -12,4 +12,4 @@ Official inav here: [INAV](https://github.com/iNavFlight/inav/)
 
 #  
 #  
-YouTube: https://youtu.be/rZ8z7VkIctQ
+YouTube: https://youtu.be/rZ8z7VkIctQ  
